@@ -1,0 +1,7 @@
+{
+  "name": "HealthLedger",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
