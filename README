@@ -1,0 +1,4 @@
+PARA RODAR A APLICAÇÃO EXECUTE
+
+npm install
+ionic serve
